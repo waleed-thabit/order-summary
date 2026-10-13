@@ -1,0 +1,19 @@
+:root {
+  --blue-100: hsl(225, 100%, 94%);
+  --blue-700: hsl(245, 75%, 52%);
+  --blue-50: hsl(225, 100%, 98%);
+  --blue-950: hsl(223, 47%, 23%);
+  --gray-600: hsl(224, 23%, 55%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+footer {
+  font-size: 10px;
+}
